@@ -9,6 +9,4 @@
  ./mvnw spring-javaformat:apply
 ```
 
-
-Hello , 
-I figuredout th
+[//]: # (Using class: https://medium.com/@ayoubseddiki132/why-you-should-stop-using-java-util-date-a-complete-guide-to-modern-java-date-time-api-e15a2315e46c)

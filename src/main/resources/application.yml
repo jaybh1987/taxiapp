@@ -1,0 +1,8 @@
+#spring.application.name=taxiapp
+spring:
+  application:
+    name: taxiapp
+---
+spring:
+  jackson:
+    date-format: yyyy-MM-dd
