@@ -11,3 +11,6 @@ jobs:
     steps:
       - name: Print Hello World
         run: 'echo "Hello World"'
+      - name: check system
+        run: |
+          uname -a
